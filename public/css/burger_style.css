@@ -9,18 +9,19 @@ body {
 }
 
 img {
-	width: 30%;
+	width: 15%;
 	height: auto;
 }
 
 h1 {
-	font-family: 'Pacifico', cursive;
+
+  font-family: 'Patrick Hand', cursive;
 	font-size: 6vw;
 	color: rgb(180,40,38);
 }
 
 h3 {
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Patrick Hand SC', cursive;
 	color: rgb(35,90,30);
 
 }
